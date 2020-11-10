@@ -83,7 +83,9 @@ def process_raw_pdf():
 
         governorates_dfs.append(df)
     combined_df = pd.concat(governorates_dfs, ignore_index=True)
-    combined_df.to_csv(here("data/processed/poverty_rate_Tunisia_2020.csv"))
+    combined_df.to_csv(
+        here("data/processed/poverty_rate_Tunisia_2020.csv"), index=False
+    )
     return combined_df
 
 
