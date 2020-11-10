@@ -1,8 +1,16 @@
+import pandas as pd
 import plotly.io as pio
 import streamlit as st
-import tabula
 from pyprojroot import here
-import pandas as pd
+from tabula.errors import JavaNotFoundError
+
+
+try:
+    import tabula
+
+    LOAD_FROM_CSV = False
+except JavaNotFoundError:
+    LOAD_FROM_CSV = True
 
 pio.templates.default = "plotly_white"
 
@@ -92,7 +100,12 @@ def load_data():
         )
 
         governorates_dfs.append(df)
-    return pd.concat(governorates_dfs, ignore_index=True)
+    combined_df = pd.concat(governorates_dfs, ignore_index=True)
+    combined_df.to_csv(here("data/processed/poverty_rate_Tunisia_2020.csv"))
+    return combined_df
 
 
-st.dataframe(load_data())
+if LOAD_FROM_CSV:
+    st.dataframe(pd.read_csv(here("data/processed/poverty_rate_Tunisia_2020.csv")))
+else:
+    st.dataframe(load_data())
