@@ -1,8 +1,10 @@
 import pandas as pd
+import plotly.express as px
 import plotly.io as pio
 import streamlit as st
 from pyprojroot import here
-import plotly.express as px
+import geopandas
+import json
 
 pio.templates.default = "plotly_white"
 
@@ -22,7 +24,15 @@ scatter_fig = px.scatter(
     height=2000,
 )
 
-st.plotly_chart(
-    scatter_fig,
-    use_container_width=True,
+decoupage = geopandas.read_file(
+    here("data/resources/decoupage_delegations.json"), layer="delegations"
 )
+
+st.write(decoupage)
+
+# st.dataframe(decoupage)
+
+# with open(here("data/resources/decoupage_delegations.json")) as f:
+# decoupage = json.load(f)
+
+# st.json(decoupage)
