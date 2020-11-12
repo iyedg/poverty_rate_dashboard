@@ -6,7 +6,7 @@ import plotly.io as pio
 import streamlit as st
 from pyprojroot import here
 
-from poverty_rate_dashboard.string_matching import sequential_fuzzy_match
+from string_matching import sequential_fuzzy_match
 
 pio.templates.default = "plotly_white"
 
