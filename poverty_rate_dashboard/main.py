@@ -13,11 +13,7 @@ st.set_page_config(layout="wide")
 st.sidebar.header("Carte de la pauvreté en Tunisie - 2020")
 
 
-geojson_url = (
-    "https://www.data4tunisia.org/s/resources/"
-    "decoupage-de-la-tunisie-geojson-et-shapefile/"
-    "20180505-120515/delegations-full.geojson"
-)
+geojson_url = "https://raw.githubusercontent.com/iyedg/poverty_rate_dashboard/develop/data/resources/decoupage_delegations.geojson"
 
 
 @st.cache()
@@ -102,7 +98,11 @@ def plot_poverty_map(selected_governorate: str) -> None:
         color="Taux de pauvreté",
         color_continuous_scale=colorscale,
     )
-    fig.update_geos(fitbounds="locations", visible=False)
+    fig.update_geos(
+        fitbounds="locations",
+        visible=False,
+        projection_type="natural earth",
+    )
     fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 
     st.plotly_chart(fig, use_container_width=True)
