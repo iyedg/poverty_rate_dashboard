@@ -153,7 +153,7 @@ def plot_bar(selected_governorate: str) -> None:
     st.plotly_chart(fig, use_container_width=True)
 
 
-colorscale = "Magma"
+colorscale = "Viridis"
 col1, col2 = st.beta_columns(2)
 
 
