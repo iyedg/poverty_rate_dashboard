@@ -134,7 +134,7 @@ def plot_regression(selected_governorate: str) -> None:
 
 def plot_bar(selected_governorate: str) -> None:
     if selected_governorate == "Tout":
-        st.subheader(f"Taux de pauvreté par délégation")
+        st.subheader("Taux de pauvreté par délégation")
     else:
         st.subheader(f"Taux de pauvreté par délégation à {selected_governorate}")
     fig = px.bar(
@@ -147,6 +147,7 @@ def plot_bar(selected_governorate: str) -> None:
             "Taux de pauvreté",
             dependent_variable,
         ],
+        template="plotly_white",
     )
     fig.update_layout(xaxis={"categoryorder": "total descending"})
     fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
@@ -154,7 +155,7 @@ def plot_bar(selected_governorate: str) -> None:
 
 
 colorscale = "Viridis"
-col1, col2 = st.beta_columns(2)
+col1, col2 = st.columns(2)
 
 
 with col1:

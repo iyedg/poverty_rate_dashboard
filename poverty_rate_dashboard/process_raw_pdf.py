@@ -1,6 +1,6 @@
-from pyprojroot import here
 import pandas as pd
 import tabula
+from pyprojroot import here
 
 input_pdf_path = here("data/raw/Carte de la pauvreté en Tunisie_final.pdf")
 
