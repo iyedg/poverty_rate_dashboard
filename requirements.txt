@@ -1,112 +1,15 @@
-altair @ file:///home/iyed/.cache/pypoetry/artifacts/54/fc/8c/c9ba0a0cd95f067ee6d710bbd9950f95c2e075d794ab8d077c4eeca065/altair-4.2.0-py3-none-any.whl
-argon2-cffi @ file:///home/iyed/.cache/pypoetry/artifacts/e5/36/34/bf219434f7144f39ec847b03dc7626b6d79dd2ce22f0dd27be6a6f2656/argon2_cffi-21.3.0-py3-none-any.whl
-argon2-cffi-bindings @ file:///home/iyed/.cache/pypoetry/artifacts/dc/7d/af/6367bb3a6693241419d236ecccbc664f4efa6b8bdebb6a5594e1508633/argon2_cffi_bindings-21.2.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-astor @ file:///home/iyed/.cache/pypoetry/artifacts/1f/03/36/982d1222edac5e8cb8ac6e0464249747fa800d4fb04728a99153ecfe4d/astor-0.8.1-py2.py3-none-any.whl
-attrs @ file:///home/iyed/.cache/pypoetry/artifacts/5b/25/94/5d165cd3190cb7dfdc98de86c28e8131fc6e19d83a504412664abffec0/attrs-21.4.0-py2.py3-none-any.whl
-backcall @ file:///home/iyed/.cache/pypoetry/artifacts/43/8e/e8/4e598704edf6fb4a53d552ea511c04e9958dcf850897760e5387878b99/backcall-0.2.0-py2.py3-none-any.whl
-base58 @ file:///home/iyed/.cache/pypoetry/artifacts/2e/53/33/a15f42f485704caf86395e9701bb3440206ec9bffc062d7a597f43518e/base58-2.1.1-py3-none-any.whl
-bleach @ file:///home/iyed/.cache/pypoetry/artifacts/db/42/1e/1062d618eece64f515d716a5cb98eace54768d5af54a9273b1f554eaec/bleach-4.1.0-py2.py3-none-any.whl
-blinker @ file:///home/iyed/.cache/pypoetry/artifacts/80/f5/69/121d7a9c19924e7c996e4e59d73db84bdcb556f8587bf809606e4c2859/blinker-1.4.tar.gz
-boltons @ file:///home/iyed/.cache/pypoetry/artifacts/62/45/b8/9e01be29551f4422b41137461bc56e8628b438fd5b890c01fb6b44253a/boltons-21.0.0-py2.py3-none-any.whl
-cachetools @ file:///home/iyed/.cache/pypoetry/artifacts/8a/c3/ee/4c03d5398d7858010aa0573d8e7ef7d1ff2a39ee05b48344ca931bb3a4/cachetools-5.0.0-py3-none-any.whl
-certifi @ file:///home/iyed/.cache/pypoetry/artifacts/71/9a/ba/a51b34ce9aacf9ac5dbb90d7c7335877522ee188189d9a521ee1a9c411/certifi-2021.10.8-py2.py3-none-any.whl
-cffi @ file:///home/iyed/.cache/pypoetry/artifacts/0b/b7/48/30ff76ec327f0041e809dd9c35b741a68d6d8566a123e6dabda722536a/cffi-1.15.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
-charset-normalizer @ file:///home/iyed/.cache/pypoetry/artifacts/f6/3f/55/3942ccd83d837749333a1accbc46779cf465f7a099099d5eac9336caa5/charset_normalizer-2.0.10-py3-none-any.whl
-click @ file:///home/iyed/.cache/pypoetry/artifacts/e2/79/34/a23e9d2f683ed66be11ec3bd760dec3a2fe228cfdedf2071bcf0531b06/click-7.1.2-py2.py3-none-any.whl
-click-plugins @ file:///home/iyed/.cache/pypoetry/artifacts/87/75/c3/fb63a9b9f496004a8bf69eb791be6e419ca0cd59f1d7e250a1bd8322e3/click_plugins-1.1.1-py2.py3-none-any.whl
-cligj @ file:///home/iyed/.cache/pypoetry/artifacts/2f/c8/68/b71e36d11825ccb87aa041731bf5cceb3008a4eb045e1defd5f611d76d/cligj-0.7.2-py3-none-any.whl
-debugpy @ file:///home/iyed/.cache/pypoetry/artifacts/7b/52/41/857f16c34fdc6e0393b19a8ceed45255a606010a8753e9c594132e53f2/debugpy-1.5.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
-decorator @ file:///home/iyed/.cache/pypoetry/artifacts/c5/6b/f9/35190d429d462647b42d2847ab554759b98334d6479bc354c719947ce6/decorator-5.1.0-py3-none-any.whl
-defusedxml @ file:///home/iyed/.cache/pypoetry/artifacts/2b/69/07/7b13f7eaf3a4d7af737dcebe24d3d17b1c2a2f457fbddf746f5642bc43/defusedxml-0.7.1-py2.py3-none-any.whl
-distro @ file:///home/iyed/.cache/pypoetry/artifacts/42/ab/a7/507b31c2bff69a9ae61d691b391cd7af9343c7a7d6ca3111a56f743262/distro-1.6.0-py2.py3-none-any.whl
-entrypoints @ file:///home/iyed/.cache/pypoetry/artifacts/63/c1/af/bbfdd91bcb544e62ac8f1567ef23c243cb188d1a9cb933532999c9bbb0/entrypoints-0.3-py2.py3-none-any.whl
-face @ file:///home/iyed/.cache/pypoetry/artifacts/42/7e/5b/9bd6f73238c425e645c6d7dab3d91bb6387d5cd0b430e26bcc30d75ce7/face-20.1.1.tar.gz
-fancycompleter @ file:///home/iyed/.cache/pypoetry/artifacts/3f/f7/b4/6f60fa4b0e993cc9fe01a9d007f5edb2d22a5a9c2d4597de7475f3e7a3/fancycompleter-0.9.1-py3-none-any.whl
-Fiona @ file:///home/iyed/.cache/pypoetry/artifacts/72/59/69/91e450314e4384580e89025135ff50e361ca6186714ddbba4972e34def/Fiona-1.8.20-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl
-geopandas @ file:///home/iyed/.cache/pypoetry/artifacts/1f/36/7c/9c1b43369493dba2a50f5b84770cfdbb7889286a956de5066b6932324c/geopandas-0.10.2-py2.py3-none-any.whl
-gitdb @ file:///home/iyed/.cache/pypoetry/artifacts/90/22/b2/13e35fcefe45f6779d7507377070865acf263775bda5c08fff422c1a4d/gitdb-4.0.9-py3-none-any.whl
-GitPython @ file:///home/iyed/.cache/pypoetry/artifacts/a5/0c/54/252d7dfe30f738045d07a47072bf784c68b68cce6d4600869cf335c1b2/GitPython-3.1.24-py3-none-any.whl
-glom @ file:///home/iyed/.cache/pypoetry/artifacts/f5/c5/5e/80a305a775df93a866fa8476c8fec3ece13b15b1489474f0116765b5f6/glom-20.11.0-py2.py3-none-any.whl
-idna @ file:///home/iyed/.cache/pypoetry/artifacts/d5/04/80/9c17fd3240a37d12ff2ef042b0306aeb1abd2d8b95f150fd60be938352/idna-3.3-py3-none-any.whl
-ipykernel @ file:///home/iyed/.cache/pypoetry/artifacts/c6/c6/c7/963981d4f504e2e612a28c576eec929643dce30f30e864ea3484cd3e7b/ipykernel-6.6.1-py3-none-any.whl
-ipython @ file:///home/iyed/.cache/pypoetry/artifacts/a5/89/3e/2091ee85a2e73ed51b6a2dc83ab4ea2e296284cf6568dea68df09139ce/ipython-7.31.0-py3-none-any.whl
-ipython-genutils @ file:///home/iyed/.cache/pypoetry/artifacts/b4/31/01/6f96480580d1674cab0b5e26dc9fca7bbdf7a2fd5811a7807a92436268/ipython_genutils-0.2.0-py2.py3-none-any.whl
-ipywidgets @ file:///home/iyed/.cache/pypoetry/artifacts/fc/29/4b/f750c0f70ce7f9529dc7dcae670c7a69248e56cec4a62e16cdf4febd70/ipywidgets-7.6.5-py2.py3-none-any.whl
-jedi @ file:///home/iyed/.cache/pypoetry/artifacts/c0/16/7b/b208472f00204d5aaeb0895fcde8e681c56c250bdf8d106fa76cdf7b30/jedi-0.18.1-py2.py3-none-any.whl
-Jinja2 @ file:///home/iyed/.cache/pypoetry/artifacts/3b/12/80/ed05a8559d6ad1e85324dbcebfe790670d339c674fb15c419b29aae138/Jinja2-3.0.3-py3-none-any.whl
-jsonschema @ file:///home/iyed/.cache/pypoetry/artifacts/83/b9/98/0d68d42823ff5b50d8e4ca0633767e1fc9180f808494d0a4f2ad0dd0a0/jsonschema-4.3.3-py3-none-any.whl
-jupyter-client @ file:///home/iyed/.cache/pypoetry/artifacts/27/6c/bc/333a7cf743ca6eaba129fbc32cbd844b16a60d1a00d4837ea6a83d953c/jupyter_client-7.1.0-py3-none-any.whl
-jupyter-core @ file:///home/iyed/.cache/pypoetry/artifacts/94/16/ab/109e77a494c40a8da71a914e4c4fced4f49ccdc3ba8dc603c10c12d01b/jupyter_core-4.9.1-py3-none-any.whl
-jupyterlab-pygments @ file:///home/iyed/.cache/pypoetry/artifacts/de/ef/fc/5883436de4b7865f082f7cba0e0e0ff5fbf229fe55d6e7d5431a6080f4/jupyterlab_pygments-0.1.2-py2.py3-none-any.whl
-jupyterlab-widgets @ file:///home/iyed/.cache/pypoetry/artifacts/b0/2b/0f/f7f65b7f0839db0577f58ba1135a0b2592c80c8c44cfe0feade7ffea95/jupyterlab_widgets-1.0.2-py3-none-any.whl
-loguru @ file:///home/iyed/.cache/pypoetry/artifacts/86/46/fb/57abc2a88da92cb957a6f2c96bd3e58662eede7ebc1adce938a5ea46c4/loguru-0.5.3-py3-none-any.whl
-MarkupSafe @ file:///home/iyed/.cache/pypoetry/artifacts/ec/52/15/121903cbf3e26335764efabbe86a236389d359c3c9e9d060c2d90c5f01/MarkupSafe-2.0.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
-matplotlib-inline @ file:///home/iyed/.cache/pypoetry/artifacts/b5/de/c6/6384d0999287fcdc9e88d38f7951106dcb7ffac7c4e8c0d0c665e12cac/matplotlib_inline-0.1.3-py3-none-any.whl
-mistune @ file:///home/iyed/.cache/pypoetry/artifacts/33/31/4c/2d69dc65d06d1c8f8b00b8e995e24bae97fce2e1f8ec5d8d2d98e852da/mistune-0.8.4-py2.py3-none-any.whl
-more-itertools @ file:///home/iyed/.cache/pypoetry/artifacts/a6/67/cb/fbf4fb4bbfedae39080e351b12ca64287d47c839769eeaf91434f3274c/more_itertools-8.12.0-py3-none-any.whl
-munch @ file:///home/iyed/.cache/pypoetry/artifacts/c3/f9/98/c46b861b1fe10f4d4fecd0ed8752a968be33d2c7e698b70589015aa0b2/munch-2.5.0-py2.py3-none-any.whl
-nbclient @ file:///home/iyed/.cache/pypoetry/artifacts/4f/7f/d9/a2258a0ec621b96205a9c5d1522d2c1a16f1e08360af4938d6af875ccb/nbclient-0.5.9-py3-none-any.whl
-nbconvert @ file:///home/iyed/.cache/pypoetry/artifacts/32/27/75/817fd411880af1b71a86dad48b0462703e787688391113e0a2ccb95366/nbconvert-6.4.0-py3-none-any.whl
-nbformat @ file:///home/iyed/.cache/pypoetry/artifacts/36/a7/e7/e1a0c1c54f6151e23afd51bc71e3f6e0b24a96dd1e693b92dd9a4e4ab3/nbformat-5.1.3-py3-none-any.whl
-nest-asyncio @ file:///home/iyed/.cache/pypoetry/artifacts/b3/29/3c/b5aaddd006ebba37d2ae62d54ebf0e5a536b927e00b2e3a7b034b82e4a/nest_asyncio-1.5.4-py3-none-any.whl
-notebook @ file:///home/iyed/.cache/pypoetry/artifacts/1a/6a/22/3e21fed164be61b5708342540da0b106f4e490683849fe458a5632d50d/notebook-6.4.6-py3-none-any.whl
-numpy @ file:///home/iyed/.cache/pypoetry/artifacts/83/49/b3/baf2c7b6e90260f8c93f5f1938d27a96a6c758791ab737ccab015396de/numpy-1.21.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-packaging @ file:///home/iyed/.cache/pypoetry/artifacts/47/3f/ce/b240169f7d8bef1ff24a0269b709721ce86543c2ec25e0b6adb2c2d7ac/packaging-21.3-py3-none-any.whl
-pandas @ file:///home/iyed/.cache/pypoetry/artifacts/56/0e/68/ad1c61d6c7a4b65bd020fdb9f5bc0c56877d9ce7a59d657bbad8042848/pandas-1.3.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-pandocfilters @ file:///home/iyed/.cache/pypoetry/artifacts/31/93/b3/c3f289a2e857d460f34581e351cfe3ac509300d47c487f135c96e39349/pandocfilters-1.5.0-py2.py3-none-any.whl
-parso @ file:///home/iyed/.cache/pypoetry/artifacts/4e/d3/c5/d91e200388f1ce44b74484eb39fbfd0797eb236741d3672a7d728668b2/parso-0.8.3-py2.py3-none-any.whl
-patsy @ file:///home/iyed/.cache/pypoetry/artifacts/5c/c5/45/f4704f2d4d2cbf6d3162c9b89e4f73bbf60ee1fea5773b172220267d49/patsy-0.5.2-py2.py3-none-any.whl
-pdbpp @ file:///home/iyed/.cache/pypoetry/artifacts/a2/71/e4/3c8b993582a4d18569e69ca922adecfd0352696c5f1e6489c3623d2894/pdbpp-0.10.3-py2.py3-none-any.whl
-pexpect @ file:///home/iyed/.cache/pypoetry/artifacts/5c/c2/43/b54fe59cab7e831df35401c8e6840162bf4a2ae5862604e7bc22db3000/pexpect-4.8.0-py2.py3-none-any.whl
-pickleshare @ file:///home/iyed/.cache/pypoetry/artifacts/b5/48/a1/d2b823337003d531d87cf0d503ef28bb579703a74d14ad24a88863d616/pickleshare-0.7.5-py2.py3-none-any.whl
-Pillow @ file:///home/iyed/.cache/pypoetry/artifacts/06/5f/ce/15a690c777acafd1f80893df7d3613ff2d230704681c5ac60b5468bb5e/Pillow-9.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-plotly @ file:///home/iyed/.cache/pypoetry/artifacts/af/f1/1b/55749cd7386f0894ba6b27814c96423e6859673f7b5e6c042f76ef5c5c/plotly-5.5.0-py2.py3-none-any.whl
-pluggy @ file:///home/iyed/.cache/pypoetry/artifacts/29/58/fc/ed8b7451d3ef91a6465024f5656141da996e7aafd4d41a1659629a75e7/pluggy-0.13.1-py2.py3-none-any.whl
-poverty-rate-dashboard==0.1.0
-prometheus-client @ file:///home/iyed/.cache/pypoetry/artifacts/e5/94/14/4c38534d91e7278ccdf17c9e95312bb7dc0616281412eb11d863b4f6b4/prometheus_client-0.12.0-py2.py3-none-any.whl
-prompt-toolkit @ file:///home/iyed/.cache/pypoetry/artifacts/ec/2a/77/5024fe40d375fe25a5d638cb593ec62b68f66f18670ea6eb8be5e0d414/prompt_toolkit-3.0.24-py3-none-any.whl
-protobuf @ file:///home/iyed/.cache/pypoetry/artifacts/67/3c/11/7ad8ef245e4143fa80e62004142d61b5f9bd8179e65185b45479a09fee/protobuf-3.19.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-ptyprocess @ file:///home/iyed/.cache/pypoetry/artifacts/2a/29/5d/0cdc5ec916431d60f03d2f725c54edbfa9fe53700b75fdfee209a3291e/ptyprocess-0.7.0-py2.py3-none-any.whl
-py @ file:///home/iyed/.cache/pypoetry/artifacts/b3/5c/47/ba5a596e01a2b61fa2daa6a438252483ad8c04e6c99e5dc22eaf8a489a/py-1.11.0-py2.py3-none-any.whl
-pyarrow @ file:///home/iyed/.cache/pypoetry/artifacts/28/3c/3e/fe875ac36b574da1e98180fa8d5230599b1af79bf6a6c6004470215308/pyarrow-6.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-pycparser @ file:///home/iyed/.cache/pypoetry/artifacts/fb/06/dd/b5671b47dd0597663bc05d60d324bb315a8cef56f3179b8f9067f88e50/pycparser-2.21-py2.py3-none-any.whl
-pydeck @ file:///home/iyed/.cache/pypoetry/artifacts/4d/70/25/0e0081fa9e1a2a114bc5438bb54fc29c881960b27737872b61573eb60b/pydeck-0.7.1-py2.py3-none-any.whl
-Pygments @ file:///home/iyed/.cache/pypoetry/artifacts/c4/2a/88/f3c7b881a8e50153413715a16d4b97b0f816cb5cadb4c841bb2402254b/Pygments-2.11.1-py3-none-any.whl
-Pympler @ file:///home/iyed/.cache/pypoetry/artifacts/cb/da/55/2bcb32c4b7aecda5a054b973feb3b0f4fbdb55c79fd5264d42d8f2585a/Pympler-1.0.1-py3-none-any.whl
-pyparsing @ file:///home/iyed/.cache/pypoetry/artifacts/61/f1/da/6428e68d48dbbc9e9b942cf2dfb6b5a7faa052423078aae46465c3c8e0/pyparsing-3.0.6-py3-none-any.whl
-pyproj @ file:///home/iyed/.cache/pypoetry/artifacts/a4/06/65/f6433383ae16598e97bc8c617c1c92912e4b195340760a867003f46628/pyproj-3.3.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
-pyprojroot @ file:///home/iyed/.cache/pypoetry/artifacts/30/36/92/77078991eb9c1771d8b8eef687c2068b439ee1929438d94d70d8c043d5/pyprojroot-0.2.0-py3-none-any.whl
-pyrepl @ file:///home/iyed/.cache/pypoetry/artifacts/f2/0b/0a/60e32350e72e648f584395582dfa36f79ac7820ab537201cef0949b1ab/pyrepl-0.9.0.tar.gz
-pyrsistent @ file:///home/iyed/.cache/pypoetry/artifacts/78/42/af/83d41626a30713ec48d568b27fc65ea9a098dd76da0e034fa6fa37c127/pyrsistent-0.18.0-cp39-cp39-manylinux1_x86_64.whl
-pytest @ file:///home/iyed/.cache/pypoetry/artifacts/e4/88/dd/3dbff42e3c4462dc3d027f5024025571166cb35edee215ce93852a968c/pytest-5.4.3-py3-none-any.whl
-python-dateutil @ file:///home/iyed/.cache/pypoetry/artifacts/53/f8/2a/7d63ce15df7386e9536e83413453f8aa845b47fb425f05c4ca2fb231c3/python_dateutil-2.8.2-py2.py3-none-any.whl
-pytz @ file:///home/iyed/.cache/pypoetry/artifacts/3e/f3/dd/6629bf5ed0a970a128e0a015f2af3b67280e749a56fdaabdaa06d5fc6b/pytz-2021.3-py2.py3-none-any.whl
-pytz-deprecation-shim @ file:///home/iyed/.cache/pypoetry/artifacts/3a/d6/49/88d13233f48d022d644aca3a5eaf48d5ab7c9273ed9874e3b46f783ea5/pytz_deprecation_shim-0.1.0.post0-py2.py3-none-any.whl
-pyzmq @ file:///home/iyed/.cache/pypoetry/artifacts/55/34/c8/5202023ce699a94ec8e3208751b3199ff36dda321909e46071ac56ff99/pyzmq-22.3.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
-requests @ file:///home/iyed/.cache/pypoetry/artifacts/5e/2d/78/049121be0a13da42ecf9b2e031d273c7b57436104bd6f525f86cb1c668/requests-2.27.0-py2.py3-none-any.whl
-scipy @ file:///home/iyed/.cache/pypoetry/artifacts/f6/a9/24/5707b4b4771bb5870386d5f9a054a34c61d719c835eb5411d6f9c2172d/scipy-1.7.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-Send2Trash @ file:///home/iyed/.cache/pypoetry/artifacts/63/2c/10/d48818ab0722d2d6ac42f70c8b9b6567ff3a7936bdc06dedddda4398b8/Send2Trash-1.8.0-py3-none-any.whl
-Shapely @ file:///home/iyed/.cache/pypoetry/artifacts/b8/de/df/917f438e9addc3a5c9643081f2239127bb3ac62ca06a2d0ec15a0175ca/Shapely-1.8.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl
-six @ file:///home/iyed/.cache/pypoetry/artifacts/08/9f/47/c16ae03035fc69eaf100ea39657a49baaeef714e25a52575710c34cd48/six-1.16.0-py2.py3-none-any.whl
-smmap @ file:///home/iyed/.cache/pypoetry/artifacts/76/3f/89/377e56f6e08e5b1fa88da762382b4c9c817c6dd24eae2e0e190898511d/smmap-5.0.0-py3-none-any.whl
-statsmodels @ file:///home/iyed/.cache/pypoetry/artifacts/d7/94/9a/ed2c9b85449efc1f58d23d0ec2ec83f8e4f1288f3c90cfe3ccac5af5f7/statsmodels-0.13.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-streamlit @ file:///home/iyed/.cache/pypoetry/artifacts/03/3c/a2/e86bea8395c3ab0189309a4ffd862ca80ac5041765b07044d985a2314a/streamlit-1.3.1-py2.py3-none-any.whl
-tabula-py @ file:///home/iyed/.cache/pypoetry/artifacts/61/06/b0/ea23c29658d950615aaee2c5fec0fe5b22807dff0b27fb41cf28cb5659/tabula_py-2.3.0-py3-none-any.whl
-tenacity @ file:///home/iyed/.cache/pypoetry/artifacts/ce/c3/43/184da8d210db196ba932448acc0a96131bfb58abc4a6bf509cc57dd98a/tenacity-8.0.1-py3-none-any.whl
-terminado @ file:///home/iyed/.cache/pypoetry/artifacts/02/75/b5/4e735b6c2cb848bfe48f9fdbdff83761cb24fb4d7efabc73f87129bfc7/terminado-0.12.1-py3-none-any.whl
-testpath @ file:///home/iyed/.cache/pypoetry/artifacts/1e/2d/08/76691a9e7e429930fb378dd96f760de96f2686841c47da2b35a04c5aad/testpath-0.5.0-py3-none-any.whl
-textdistance @ file:///home/iyed/.cache/pypoetry/artifacts/12/60/3f/8297e649101b6a9f1b99e9c5530b05f8cdbab175220867b67c34a92438/textdistance-4.2.2-py3-none-any.whl
-toml @ file:///home/iyed/.cache/pypoetry/artifacts/6b/6a/c9/53b19f7870a77d855e8b05ecdc98193944e5d246dafe11bbcad850ecba/toml-0.10.2-py2.py3-none-any.whl
-toolz @ file:///home/iyed/.cache/pypoetry/artifacts/14/14/07/68f3796f01e5cbd3a8bfa033f4eed3f040c5af27bb9cf8e80b8591c89d/toolz-0.11.2-py3-none-any.whl
-tornado @ file:///home/iyed/.cache/pypoetry/artifacts/32/ff/76/0fc7d26eab2180c92fa57552212f38defaf212ceb7ddc9432bd84d646c/tornado-6.1-cp39-cp39-manylinux2010_x86_64.whl
-traitlets @ file:///home/iyed/.cache/pypoetry/artifacts/ee/01/57/93229f3393af5b0814aff282450fcac279f4d7f32188b49db882ebf459/traitlets-5.1.1-py3-none-any.whl
-typing_extensions @ file:///home/iyed/.cache/pypoetry/artifacts/88/68/28/f1a10f89c5267ca2c8a3c0e79c45230a866cd7c52d295e556597219c54/typing_extensions-4.0.1-py3-none-any.whl
-tzdata @ file:///home/iyed/.cache/pypoetry/artifacts/4e/13/c2/a9899167de185d6623d6eca7d70174426acf7a9e61e6b9705626976c02/tzdata-2021.5-py2.py3-none-any.whl
-tzlocal @ file:///home/iyed/.cache/pypoetry/artifacts/e4/be/79/4a190bc829b58ebaf5bcf399cb01f0df2494cc2d75ddf25256278f9e58/tzlocal-4.1-py3-none-any.whl
-urllib3 @ file:///home/iyed/.cache/pypoetry/artifacts/55/46/d1/1acba0600879bfaada54191116fbaea89a464f437b3f949bc9c2a220e7/urllib3-1.26.7-py2.py3-none-any.whl
-validators @ file:///home/iyed/.cache/pypoetry/artifacts/0b/1b/6c/9b2a1b1e345dcf55852bb4d5947eff9bf44754c1b263adf9912193b5b2/validators-0.18.2-py3-none-any.whl
-watchdog @ file:///home/iyed/.cache/pypoetry/artifacts/4a/43/6d/97b5501f46d980affa5602202b7ddf82c47f0d38049eb70896279620a4/watchdog-2.1.6-py3-none-manylinux2014_x86_64.whl
-wcwidth @ file:///home/iyed/.cache/pypoetry/artifacts/7d/f4/60/0737157bb9711fec72c70dff523aa54491eef317e0d586cf5388ff0908/wcwidth-0.2.5-py2.py3-none-any.whl
-webencodings @ file:///home/iyed/.cache/pypoetry/artifacts/ed/d4/da/61384706cfac042ba3bd148746d66e50695463993be117c7c8dadeef7a/webencodings-0.5.1-py2.py3-none-any.whl
-widgetsnbextension @ file:///home/iyed/.cache/pypoetry/artifacts/1e/8c/72/6bea2521eb3293d1d676d0bd992472ac2749ffc9159df93c30cb550027/widgetsnbextension-3.5.2-py2.py3-none-any.whl
-wmctrl @ file:///home/iyed/.cache/pypoetry/artifacts/0f/8f/90/3cb76d2cbb8530e86e0e66a27d8f8ce28ce0309fb54606758d91a08666/wmctrl-0.4.tar.gz
+attrs==21.4.0
+certifi==2021.10.8
+click==8.0.3
+click-plugins==1.1.1
+cligj==0.7.2
+Fiona==1.8.20
+geopandas==0.10.2
+munch==2.5.0
+numpy==1.22.0
+pandas==1.3.5
+pyproj==3.3.0
+python-dateutil==2.8.2
+pytz==2021.3
+Shapely==1.8.0
+six==1.16.0
